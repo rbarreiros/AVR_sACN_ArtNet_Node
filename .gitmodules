@@ -1,0 +1,9 @@
+[submodule "lib/ArduinoArtNet"]
+	path = lib/ArduinoArtNet
+	url = https://github.com/rbarreiros/ArduinoArtNet.git
+[submodule "lib/ethercard"]
+	path = lib/ethercard
+	url = https://github.com/rbarreiros/ethercard.git
+[submodule "lib/DMXSerial"]
+	path = lib/DMXSerial
+	url = https://github.com/mathertel/DMXSerial.git
